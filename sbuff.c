@@ -7,6 +7,7 @@
  	     int end;
   	     int size;
   	     int count;
+
   	 } sbuff_t;
   	 sbuff_t * sbuff_new(int size)
   	 {
